@@ -20,7 +20,7 @@ class dustbin
 		World.add(world, this.leftWallBody)
 		World.add(world, this.rightWallBody);
 
-	}
+	}  
 	display()
 	{
 			var posBottom=this.bottomBody.position;
